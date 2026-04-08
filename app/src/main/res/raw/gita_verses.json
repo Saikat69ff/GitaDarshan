@@ -1,0 +1,940 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "name": "Arjuna Visada Yoga",
+      "name_bengali": "অর্জুন বিষাদ যোগ",
+      "verses": [
+        {
+          "verse_number": 1,
+          "verse_id": "1.1",
+          "english": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do when they assembled on the sacred field of Kurukshetra, eager for battle?",
+          "bengali": "ধৃতরাষ্ট্র বললেন: হে সঞ্জয়, যুদ্ধের ইচ্ছায় কুরুক্ষেত্রের পবিত্র ভূমিতে সমবেত হয়ে আমার পুত্রগণ এবং পাণ্ডুর পুত্রগণ কী করেছিল?"
+        },
+        {
+          "verse_number": 2,
+          "verse_id": "1.2",
+          "english": "Sanjaya said: O King, after seeing the Pandava army standing in military formation, King Duryodhana went to his teacher Drona and spoke the following words.",
+          "bengali": "সঞ্জয় বললেন: হে রাজন, পাণ্ডবদের সৈন্যবাহিনী ব্যূহাকারে দণ্ডায়মান দেখে রাজা দুর্যোধন তাঁর গুরু দ্রোণাচার্যের কাছে গেলেন এবং এই কথা বললেন।"
+        },
+        {
+          "verse_number": 11,
+          "verse_id": "1.11",
+          "english": "All of you must give full support and protect Bhishma specifically, while standing in your respective strategic positions.",
+          "bengali": "তোমরা সকলে নিজ নিজ কৌশলগত স্থানে অবস্থান করে বিশেষভাবে ভীষ্মকে সম্পূর্ণরূপে সমর্থন ও রক্ষা করো।"
+        },
+        {
+          "verse_number": 28,
+          "verse_id": "1.28",
+          "english": "Arjuna said: O Krishna, seeing my own kinsmen standing here with such a fighting spirit, my limbs fail and my mouth dries up.",
+          "bengali": "অর্জুন বললেন: হে কৃষ্ণ, যুদ্ধের আগ্রহ নিয়ে দণ্ডায়মান নিজের স্বজনদের দেখে আমার অঙ্গ-প্রত্যঙ্গ শিথিল হয়ে যাচ্ছে এবং মুখ শুকিয়ে যাচ্ছে।"
+        },
+        {
+          "verse_number": 29,
+          "verse_id": "1.29",
+          "english": "My whole body quivers, my hair stands on end, my bow slips from my hand, my skin is burning, I am unable to stand, and my mind seems to whirl.",
+          "bengali": "আমার সমস্ত শরীর কাঁপছে, লোম খাড়া হয়ে যাচ্ছে, হাত থেকে ধনুক পিছলে যাচ্ছে, চামড়া জ্বলছে, দাঁড়াতে পারছি না এবং মন যেন ঘুরছে।"
+        },
+        {
+          "verse_number": 32,
+          "verse_id": "1.32",
+          "english": "O Govinda, what is the use of a kingdom, happiness, or even life itself, when all those for whom we desire them — teachers, fathers, sons, grandfathers — are standing here ready to give up their lives?",
+          "bengali": "হে গোবিন্দ, রাজ্য, সুখ এমনকি জীবনেরই বা কী প্রয়োজন, যখন যাদের জন্য আমরা এগুলো চাই — গুরু, পিতা, পুত্র, পিতামহ — তারাই এখানে প্রাণ দিতে প্রস্তুত হয়ে দাঁড়িয়ে আছেন?"
+        },
+        {
+          "verse_number": 47,
+          "verse_id": "1.47",
+          "english": "Sanjaya said: Having spoken thus on the battlefield, Arjuna sat down on the chariot, casting aside his bow and arrows, his mind overwhelmed with grief.",
+          "bengali": "সঞ্জয় বললেন: এইভাবে যুদ্ধক্ষেত্রে বলে অর্জুন ধনুক ও তীর ফেলে দিয়ে শোকবিহ্বল মনে রথে বসে পড়লেন।"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Sankhya Yoga",
+      "name_bengali": "সাংখ্য যোগ",
+      "verses": [
+        {
+          "verse_number": 11,
+          "verse_id": "2.11",
+          "english": "The Supreme Lord said: While speaking learned words, you are mourning for what is not worthy of grief. The wise grieve neither for the living nor the dead.",
+          "bengali": "শ্রীভগবান বললেন: তুমি জ্ঞানীর মতো কথা বলছ অথচ শোকের অযোগ্য বিষয়ের জন্য শোক করছ। জ্ঞানী ব্যক্তিরা জীবিত বা মৃত — কারো জন্যই শোক করেন না।"
+        },
+        {
+          "verse_number": 13,
+          "verse_id": "2.13",
+          "english": "Just as the embodied soul continuously passes through childhood, youth, and old age in this body, similarly at the time of death the soul passes into another body. The self-realized person is not confused by such a change.",
+          "bengali": "যেমন দেহধারী আত্মা এই শরীরে শৈশব, যৌবন ও বার্ধক্য অতিক্রম করে, তেমনই মৃত্যুর সময় আত্মা আরেকটি শরীরে প্রবেশ করে। আত্মজ্ঞানী ব্যক্তি এই পরিবর্তনে বিচলিত হন না।"
+        },
+        {
+          "verse_number": 14,
+          "verse_id": "2.14",
+          "english": "O son of Kunti, the contact between the senses and their objects gives rise to fleeting perceptions of happiness and distress. These are non-permanent and come and go like winter and summer seasons. One must learn to tolerate them without being disturbed.",
+          "bengali": "হে কুন্তীপুত্র, ইন্দ্রিয় ও তাদের বিষয়ের সংযোগ সুখ-দুঃখের ক্ষণস্থায়ী অনুভূতি তৈরি করে। এগুলো অনিত্য এবং শীত-গ্রীষ্মের মতো আসে-যায়। এদের সহ্য করতে শিখতে হবে।"
+        },
+        {
+          "verse_number": 17,
+          "verse_id": "2.17",
+          "english": "That which pervades the entire body is indestructible. No one can destroy the imperishable soul.",
+          "bengali": "যা সমস্ত শরীরে ব্যাপ্ত তা অবিনাশী। কেউই এই অবিনশ্বর আত্মাকে ধ্বংস করতে পারে না।"
+        },
+        {
+          "verse_number": 19,
+          "verse_id": "2.19",
+          "english": "He who thinks that the soul can kill and he who thinks that the soul can be killed — both are in ignorance. The soul neither kills nor can it be killed.",
+          "bengali": "যে মনে করে আত্মা হত্যা করতে পারে এবং যে মনে করে আত্মাকে হত্যা করা যায় — উভয়ই অজ্ঞ। আত্মা না হত্যা করে, না হত্যা করা যায়।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "2.20",
+          "english": "The soul is never born nor dies at any time. It has not come into being, does not come into being, and will not come into being. It is unborn, eternal, ever-existing, and primeval. It is not slain when the body is slain.",
+          "bengali": "আত্মা কখনো জন্মগ্রহণ করে না এবং মরেও না। এটি কখনো সৃষ্ট হয়নি, হয় না এবং হবেও না। এটি অজন্মা, শাশ্বত, চিরবর্তমান এবং আদিম। শরীর বিনষ্ট হলেও আত্মার বিনাশ হয় না।"
+        },
+        {
+          "verse_number": 22,
+          "verse_id": "2.22",
+          "english": "As a person puts on new garments, giving up old ones, similarly the soul accepts new material bodies, giving up the old and useless ones.",
+          "bengali": "যেমন একজন মানুষ পুরনো পোশাক ছেড়ে নতুন পোশাক পরে, তেমনই আত্মা পুরনো ও অকেজো শরীর ত্যাগ করে নতুন শরীর গ্রহণ করে।"
+        },
+        {
+          "verse_number": 23,
+          "verse_id": "2.23",
+          "english": "The soul can never be cut into pieces by any weapon, nor can it be burned by fire, nor moistened by water, nor withered by the wind.",
+          "bengali": "কোনো অস্ত্র আত্মাকে ছেদ করতে পারে না, আগুন পোড়াতে পারে না, জল ভেজাতে পারে না এবং বাতাস শুকাতে পারে না।"
+        },
+        {
+          "verse_number": 27,
+          "verse_id": "2.27",
+          "english": "One who has taken birth is sure to die, and after death one is sure to be born again. Therefore, in doing your inevitable duty, you should not lament.",
+          "bengali": "যে জন্ম নেয় তার মৃত্যু নিশ্চিত এবং মৃত্যুর পর পুনর্জন্মও নিশ্চিত। তাই তোমার অবশ্যকর্তব্য পালনে তোমার বিলাপ করা উচিত নয়।"
+        },
+        {
+          "verse_number": 38,
+          "verse_id": "2.38",
+          "english": "Fight for the sake of duty, treating alike happiness and distress, loss and gain, victory and defeat. By doing so, you shall never incur sin.",
+          "bengali": "সুখ-দুঃখ, লাভ-ক্ষতি, জয়-পরাজয়কে সমান মনে করে কর্তব্যের জন্য যুদ্ধ করো। এইভাবে তুমি কখনো পাপ করবে না।"
+        },
+        {
+          "verse_number": 40,
+          "verse_id": "2.40",
+          "english": "In this path of action there is no loss or diminution, and even a little of this practice saves one from the most dangerous type of fear.",
+          "bengali": "এই কর্মপথে কোনো ক্ষতি বা হ্রাস নেই এবং এই অভ্যাসের সামান্যটুকুও মানুষকে মহাভয় থেকে রক্ষা করে।"
+        },
+        {
+          "verse_number": 47,
+          "verse_id": "2.47",
+          "english": "You have the right to perform your actions, but never to the fruits of your actions. Never let the fruits of action be your motive, nor let your attachment be to inaction.",
+          "bengali": "কর্মে তোমার অধিকার আছে, কিন্তু কর্মফলে নয়। কর্মফল যেন তোমার কর্মের উদ্দেশ্য না হয়, আবার অকর্মণ্যতায়ও আসক্ত হয়ো না।"
+        },
+        {
+          "verse_number": 48,
+          "verse_id": "2.48",
+          "english": "Be steadfast in yoga, O Arjuna. Perform your duty without attachment, abandoning success and failure. Such evenness of mind is called yoga.",
+          "bengali": "হে অর্জুন, যোগে অবিচল থাকো। আসক্তি ত্যাগ করে, সাফল্য ও ব্যর্থতা পরিত্যাগ করে কর্তব্য পালন করো। এই মানসিক সমতাকেই যোগ বলে।"
+        },
+        {
+          "verse_number": 55,
+          "verse_id": "2.55",
+          "english": "The Supreme Lord said: O Arjuna, when a man gives up all varieties of desire for sense gratification, which arise from mental concoction, and when his mind, purified thus, finds satisfaction in the self alone — then he is said to be in pure transcendental consciousness.",
+          "bengali": "শ্রীভগবান বললেন: হে অর্জুন, যখন একজন মানুষ মনের কল্পনা থেকে জাত ইন্দ্রিয় তৃপ্তির সমস্ত বাসনা ত্যাগ করে এবং পরিশুদ্ধ মনে শুধু আত্মায় সন্তুষ্ট হয় — তখন তাকে বিশুদ্ধ অতীন্দ্রিয় চেতনায় অবস্থিত বলা হয়।"
+        },
+        {
+          "verse_number": 62,
+          "verse_id": "2.62",
+          "english": "While contemplating the objects of the senses, a person develops attachment for them, and from such attachment lust develops, and from lust anger arises.",
+          "bengali": "ইন্দ্রিয়ের বিষয় নিয়ে চিন্তা করতে করতে মানুষ তাদের প্রতি আসক্ত হয়ে পড়ে, আসক্তি থেকে কাম জন্মায় এবং কাম থেকে ক্রোধ উৎপন্ন হয়।"
+        },
+        {
+          "verse_number": 63,
+          "verse_id": "2.63",
+          "english": "From anger, delusion arises. From delusion, bewilderment of memory. When memory is bewildered, intelligence is lost, and when intelligence is lost, one falls down again into the material pool of miseries.",
+          "bengali": "ক্রোধ থেকে মোহ জন্মে। মোহ থেকে স্মৃতিভ্রংশ হয়। স্মৃতিভ্রংশ হলে বুদ্ধি নষ্ট হয় এবং বুদ্ধি নষ্ট হলে মানুষ আবার জাগতিক দুঃখের সাগরে পতিত হয়।"
+        },
+        {
+          "verse_number": 70,
+          "verse_id": "2.70",
+          "english": "A person who is not disturbed by the incessant flow of desires — that enter like rivers into the ocean, which is always being filled yet is always still — can alone achieve peace, and not the man who strives to satisfy such desires.",
+          "bengali": "যে ব্যক্তি নিরন্তর প্রবাহিত কামনার দ্বারা বিচলিত হয় না — যেমন নদীরা সর্বদা পূর্ণ তবু স্থির সমুদ্রে প্রবেশ করে — সেই ব্যক্তিই একমাত্র শান্তি লাভ করতে পারে, যে এই কামনাগুলো পূরণ করতে চেষ্টা করে সে নয়।"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Karma Yoga",
+      "name_bengali": "কর্ম যোগ",
+      "verses": [
+        {
+          "verse_number": 5,
+          "verse_id": "3.5",
+          "english": "Everyone is forced to act helplessly according to the qualities he has acquired from the three modes of material nature; therefore no one can refrain from doing something, not even for a moment.",
+          "bengali": "প্রকৃতির ত্রিগুণ থেকে প্রাপ্ত গুণ অনুযায়ী প্রত্যেকে বাধ্যতামূলকভাবে কর্ম করতে থাকে; তাই কেউই এক মুহূর্তের জন্যও কর্ম থেকে বিরত থাকতে পারে না।"
+        },
+        {
+          "verse_number": 8,
+          "verse_id": "3.8",
+          "english": "Perform your prescribed duty, for action is better than inaction. A man cannot even maintain his physical body without work.",
+          "bengali": "তোমার নির্ধারিত কর্তব্য পালন করো, কারণ কর্মহীনতার চেয়ে কর্ম শ্রেয়। কর্ম ছাড়া মানুষ তার নিজের শরীরও ধারণ করতে পারে না।"
+        },
+        {
+          "verse_number": 16,
+          "verse_id": "3.16",
+          "english": "My dear Arjuna, one who does not follow this prescribed Vedic system of sacrifice certainly leads a sinful life. Living only for the satisfaction of the senses, such a person lives in vain.",
+          "bengali": "হে প্রিয় অর্জুন, যে বৈদিক যজ্ঞবিধি পালন করে না সে নিশ্চয়ই পাপময় জীবন যাপন করে। শুধুমাত্র ইন্দ্রিয়তৃপ্তির জন্য বেঁচে থাকা সেই ব্যক্তির জীবন বৃথা।"
+        },
+        {
+          "verse_number": 19,
+          "verse_id": "3.19",
+          "english": "Therefore, without being attached to the fruits of your activities, perform your duty as a matter of course, for by working without attachment one attains the Supreme.",
+          "bengali": "তাই কর্মফলের প্রতি আসক্তি ছাড়া স্বাভাবিকভাবে তোমার কর্তব্য পালন করো, কারণ আসক্তিহীনভাবে কর্ম করে মানুষ পরমসত্তা লাভ করে।"
+        },
+        {
+          "verse_number": 21,
+          "verse_id": "3.21",
+          "english": "Whatever a great man does, common men follow. Whatever standards he sets by exemplary acts, all the world pursues.",
+          "bengali": "একজন মহান মানুষ যা করেন, সাধারণ মানুষ তাই অনুসরণ করে। তিনি আদর্শ কর্মের মাধ্যমে যে মানদণ্ড স্থাপন করেন, সমগ্র পৃথিবী তা অনুসরণ করে।"
+        },
+        {
+          "verse_number": 27,
+          "verse_id": "3.27",
+          "english": "The spirit soul bewildered by the influence of false ego thinks himself to be the doer of activities that are in actuality carried out by the three modes of material nature.",
+          "bengali": "মিথ্যা অহংকারের প্রভাবে বিমোহিত আত্মা নিজেকেই কর্তা মনে করে, অথচ প্রকৃতির ত্রিগুণই প্রকৃতপক্ষে সব কর্ম সম্পাদন করছে।"
+        },
+        {
+          "verse_number": 35,
+          "verse_id": "3.35",
+          "english": "It is far better to discharge one's prescribed duties, even though faultily, than another's duties perfectly. Destruction in the course of performing one's own duty is better than engaging in another's duties, for to follow another's path is dangerous.",
+          "bengali": "অপরের কর্তব্য নিখুঁতভাবে পালন করার চেয়ে নিজের কর্তব্য ত্রুটিপূর্ণভাবে পালন করাও অনেক ভালো। নিজের কর্তব্য পালনে মৃত্যুও শ্রেয়; অপরের পথ অনুসরণ করা বিপজ্জনক।"
+        },
+        {
+          "verse_number": 43,
+          "verse_id": "3.43",
+          "english": "Thus knowing yourself to be transcendental to the material senses, mind, and intelligence, O mighty-armed Arjuna, one should steady the mind by deliberate spiritual intelligence and thus — by spiritual strength — conquer this insatiable enemy known as lust.",
+          "bengali": "হে মহাবাহু অর্জুন, এইভাবে নিজেকে জড় ইন্দ্রিয়, মন ও বুদ্ধির ঊর্ধ্বে বলে জেনে, আধ্যাত্মিক বুদ্ধি দ্বারা মনকে স্থির করে — আধ্যাত্মিক শক্তিতে এই অতৃপ্ত শত্রু কামকে জয় করো।"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Jnana Karma Sanyasa Yoga",
+      "name_bengali": "জ্ঞান কর্ম সন্ন্যাস যোগ",
+      "verses": [
+        {
+          "verse_number": 7,
+          "verse_id": "4.7",
+          "english": "Whenever and wherever there is a decline in religious practice, O descendant of Bharata, and a predominant rise of irreligion — at that time I descend Myself.",
+          "bengali": "হে ভরতবংশীয়, যখনই ধর্মের অবক্ষয় এবং অধর্মের প্রাধান্য দেখা দেয় — তখনই আমি নিজে অবতীর্ণ হই।"
+        },
+        {
+          "verse_number": 8,
+          "verse_id": "4.8",
+          "english": "To deliver the pious and to annihilate the miscreants, as well as to reestablish the principles of religion, I Myself appear, millennium after millennium.",
+          "bengali": "সাধুদের রক্ষা করতে, দুষ্টদের বিনাশ করতে এবং ধর্মের নীতি পুনঃপ্রতিষ্ঠা করতে আমি যুগে যুগে নিজে আবির্ভূত হই।"
+        },
+        {
+          "verse_number": 11,
+          "verse_id": "4.11",
+          "english": "As all surrender unto Me, I reward them accordingly. Everyone follows My path in all respects, O son of Pritha.",
+          "bengali": "যেভাবে সকলে আমার শরণ নেয়, আমি সেইভাবে তাদের পুরস্কৃত করি। হে পৃথাপুত্র, সর্বক্ষেত্রে সকলেই আমার পথ অনুসরণ করে।"
+        },
+        {
+          "verse_number": 18,
+          "verse_id": "4.18",
+          "english": "One who sees inaction in action, and action in inaction, is intelligent among men, and he is in the transcendental position, although engaged in all sorts of activities.",
+          "bengali": "যে ব্যক্তি কর্মে অকর্ম এবং অকর্মে কর্ম দেখতে পায়, সে মানুষের মধ্যে বুদ্ধিমান এবং সব ধরনের কর্মে নিয়োজিত থেকেও সে অতীন্দ্রিয় অবস্থানে থাকে।"
+        },
+        {
+          "verse_number": 24,
+          "verse_id": "4.24",
+          "english": "A person who is fully absorbed in God-consciousness sees the absolute nature in every act of sacrifice. The offering is Brahman, the fire is Brahman, the oblation is Brahman, and the goal is Brahman. Such a person, absorbed in Brahman's action, shall reach Brahman.",
+          "bengali": "যে ব্যক্তি সম্পূর্ণরূপে ঈশ্বরচেতনায় নিমগ্ন, সে প্রতিটি যজ্ঞ কর্মে পরম সত্তাকে দেখতে পায়। আহুতি ব্রহ্ম, আগুন ব্রহ্ম, হোম ব্রহ্ম এবং লক্ষ্যও ব্রহ্ম। এইরূপ ব্যক্তি ব্রহ্মের কর্মে নিমগ্ন হয়ে ব্রহ্মে পৌঁছায়।"
+        },
+        {
+          "verse_number": 33,
+          "verse_id": "4.33",
+          "english": "O Arjuna, the sacrifice of knowledge is superior to any material sacrifice. All works in their entirety culminate in knowledge, O son of Pritha.",
+          "bengali": "হে অর্জুন, যেকোনো বস্তুগত যজ্ঞের চেয়ে জ্ঞান-যজ্ঞ শ্রেষ্ঠ। হে পৃথাপুত্র, সমস্ত কর্ম পরিশেষে জ্ঞানে পর্যবসিত হয়।"
+        },
+        {
+          "verse_number": 38,
+          "verse_id": "4.38",
+          "english": "In this world, there is nothing so sublime and pure as transcendental knowledge. Such knowledge is the mature fruit of all mysticism. And one who has achieved this enjoys the self within himself in due course of time.",
+          "bengali": "এই জগতে অতীন্দ্রিয় জ্ঞানের মতো পবিত্র ও উদাত্ত আর কিছু নেই। এই জ্ঞান সমস্ত রহস্যময়তার পরিপক্ব ফল। যে এটি লাভ করেছে, সে যথাসময়ে নিজের মধ্যে আত্মাকে উপভোগ করে।"
+        },
+        {
+          "verse_number": 42,
+          "verse_id": "4.42",
+          "english": "Therefore the doubts which have arisen in your heart out of ignorance should be slashed by the weapon of knowledge. Arm yourself with yoga and arise, O Arjuna.",
+          "bengali": "তাই অজ্ঞানতা থেকে তোমার হৃদয়ে যে সংশয় জন্মেছে তা জ্ঞানের অস্ত্র দিয়ে ছেদ করো। যোগে নিজেকে সজ্জিত করো এবং ওঠো, হে অর্জুন।"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Karma Sanyasa Yoga",
+      "name_bengali": "কর্ম সন্ন্যাস যোগ",
+      "verses": [
+        {
+          "verse_number": 2,
+          "verse_id": "5.2",
+          "english": "The Supreme Lord said: The renunciation of work and the performance of work in devotion are both good for liberation. Of the two, the performance of devotional service is better than the renunciation of work.",
+          "bengali": "শ্রীভগবান বললেন: কর্ম-সন্ন্যাস এবং ভক্তিতে কর্মসম্পাদন উভয়ই মুক্তির জন্য ভালো। তবে এ দুটোর মধ্যে ভক্তিমূলক সেবায় কর্মসম্পাদন কর্ম-সন্ন্যাসের চেয়ে শ্রেয়।"
+        },
+        {
+          "verse_number": 7,
+          "verse_id": "5.7",
+          "english": "One who works in devotion, who is a pure soul, and who controls his mind and senses — he is dear to everyone, and everyone is dear to him. Though always working, such a man is never entangled.",
+          "bengali": "যে ভক্তিতে কর্ম করে, যে বিশুদ্ধ আত্মা এবং যে তার মন ও ইন্দ্রিয় নিয়ন্ত্রণ করে — সে সকলের প্রিয় এবং সকলেই তার প্রিয়। সর্বদা কর্মরত থেকেও সে কখনো জড়িয়ে পড়ে না।"
+        },
+        {
+          "verse_number": 10,
+          "verse_id": "5.10",
+          "english": "One who performs his duty without attachment, surrendering the results unto the Supreme God, is unaffected by sinful action, as the lotus leaf is untouched by water.",
+          "bengali": "যে আসক্তি ছাড়া কর্তব্য পালন করে এবং ফলাফল পরমেশ্বরকে অর্পণ করে, সে পাপময় কর্মে প্রভাবিত হয় না, যেমন পদ্মপাতা জলে ভেজে না।"
+        },
+        {
+          "verse_number": 14,
+          "verse_id": "5.14",
+          "english": "The embodied spirit, the master of the city of the body, does not create activities, nor does it induce people to act, nor does it create the fruits of action. All this is enacted by the modes of material nature.",
+          "bengali": "শরীর নগরের অধিপতি দেহী আত্মা না কর্ম সৃষ্টি করে, না মানুষকে কর্ম করতে প্রণোদিত করে, না কর্মফল সৃষ্টি করে। এ সব কিছুই প্রকৃতির গুণ দ্বারা সম্পাদিত হয়।"
+        },
+        {
+          "verse_number": 18,
+          "verse_id": "5.18",
+          "english": "The humble sage, by virtue of true knowledge, sees with equal vision a learned and gentle brahmin, a cow, an elephant, a dog, and a dog-eater.",
+          "bengali": "সত্যিকার জ্ঞানের গুণে বিনয়ী মুনি একজন বিদ্বান ও ভদ্র ব্রাহ্মণ, একটি গরু, একটি হাতি, একটি কুকুর এবং একজন চণ্ডালকে সমান দৃষ্টিতে দেখেন।"
+        },
+        {
+          "verse_number": 22,
+          "verse_id": "5.22",
+          "english": "An intelligent person does not take part in the sources of misery, which are due to contact with the material senses. Such pleasures have a beginning and an end, and so the wise man does not delight in them.",
+          "bengali": "বুদ্ধিমান ব্যক্তি জড় ইন্দ্রিয় সংযোগজনিত দুঃখের উৎসে অংশগ্রহণ করে না। এই ধরনের আনন্দের শুরু ও শেষ আছে, তাই জ্ঞানী ব্যক্তি এতে আনন্দ নেন না।"
+        },
+        {
+          "verse_number": 29,
+          "verse_id": "5.29",
+          "english": "A person in full consciousness of Me, knowing Me to be the ultimate beneficiary of all sacrifices and austerities, the Supreme Lord of all planets and demigods, and the benefactor and well-wisher of all living entities, attains peace from the pangs of material miseries.",
+          "bengali": "যে ব্যক্তি আমাকে সমস্ত যজ্ঞ ও তপস্যার চরম ভোক্তা, সমস্ত গ্রহ ও দেবতার পরম ঈশ্বর এবং সমস্ত জীবের হিতৈষী ও শুভাকাঙ্ক্ষী বলে সম্পূর্ণ চেতনায় জেনে আমার শরণ নেয়, সে জাগতিক দুঃখ-যন্ত্রণা থেকে শান্তি লাভ করে।"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "name": "Dhyana Yoga",
+      "name_bengali": "ধ্যান যোগ",
+      "verses": [
+        {
+          "verse_number": 5,
+          "verse_id": "6.5",
+          "english": "One must deliver himself with the help of his mind, and not degrade himself. The mind is the friend of the conditioned soul, and his enemy as well.",
+          "bengali": "মানুষকে তার মন দিয়ে নিজেকে উদ্ধার করতে হবে, নিজেকে অধঃপতিত করা উচিত নয়। মন বদ্ধ আত্মার বন্ধু এবং শত্রু উভয়ই।"
+        },
+        {
+          "verse_number": 6,
+          "verse_id": "6.6",
+          "english": "For him who has conquered the mind, the mind is the best of friends; but for one who has failed to do so, his mind will remain the greatest enemy.",
+          "bengali": "যে মনকে জয় করেছে তার জন্য মন সেরা বন্ধু; কিন্তু যে তা করতে পারেনি, তার মন সবচেয়ে বড় শত্রু হিসেবেই থাকবে।"
+        },
+        {
+          "verse_number": 17,
+          "verse_id": "6.17",
+          "english": "He who is regulated in his habits of eating, sleeping, recreation, and work can mitigate all material pains by practicing the yoga system.",
+          "bengali": "যে ব্যক্তি আহার, নিদ্রা, বিনোদন ও কর্মে নিয়মিত, সে যোগ অভ্যাসের মাধ্যমে সমস্ত জাগতিক কষ্ট লাঘব করতে পারে।"
+        },
+        {
+          "verse_number": 19,
+          "verse_id": "6.19",
+          "english": "As a lamp in a windless place does not flicker, so the transcendentalist, whose mind is controlled, remains always steady in his meditation on the transcendent self.",
+          "bengali": "বায়ুহীন স্থানে প্রদীপ যেমন কাঁপে না, তেমনই যার মন নিয়ন্ত্রিত, সেই অতীন্দ্রিয়বাদী পরম আত্মার ধ্যানে সর্বদা অবিচল থাকেন।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "6.20",
+          "english": "In that joyous state of yoga, called samadhi, one is situated in perfect self-realization, beyond the material senses. One feels an infinite happiness derived from pure spiritual senses, and once established in this transcendental position, one never departs from the truth.",
+          "bengali": "সমাধি নামক সেই আনন্দময় যোগাবস্থায় জড় ইন্দ্রিয়ের ঊর্ধ্বে উঠে নিখুঁত আত্মানুভূতিতে অবস্থান করা হয়। বিশুদ্ধ আধ্যাত্মিক ইন্দ্রিয় থেকে অনন্ত সুখ অনুভব করা যায় এবং এই অতীন্দ্রিয় অবস্থায় প্রতিষ্ঠিত হলে কেউ কখনো সত্য থেকে বিচ্যুত হয় না।"
+        },
+        {
+          "verse_number": 34,
+          "verse_id": "6.34",
+          "english": "The mind is restless, turbulent, obstinate, and very strong, O Krishna, and to subdue it, I think, is more difficult than controlling the wind.",
+          "bengali": "হে কৃষ্ণ, মন অস্থির, উত্তাল, একগুঁয়ে এবং অত্যন্ত শক্তিশালী। এটিকে বশে আনা বায়ু নিয়ন্ত্রণ করার চেয়েও কঠিন বলে আমি মনে করি।"
+        },
+        {
+          "verse_number": 35,
+          "verse_id": "6.35",
+          "english": "Lord Krishna said: O mighty-armed son of Kunti, it is undoubtedly very difficult to curb the restless mind, but it is possible by suitable practice and by detachment.",
+          "bengali": "শ্রীকৃষ্ণ বললেন: হে মহাবাহু কুন্তীপুত্র, চঞ্চল মনকে বশে আনা নিঃসন্দেহে অত্যন্ত কঠিন, কিন্তু উপযুক্ত অভ্যাস ও বৈরাগ্যের মাধ্যমে এটি সম্ভব।"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "name": "Jnana Vijnana Yoga",
+      "name_bengali": "জ্ঞান বিজ্ঞান যোগ",
+      "verses": [
+        {
+          "verse_number": 7,
+          "verse_id": "7.7",
+          "english": "O conqueror of wealth, there is no truth superior to Me. Everything rests upon Me, as pearls are strung on a thread.",
+          "bengali": "হে ধনঞ্জয়, আমার চেয়ে শ্রেষ্ঠ কোনো সত্য নেই। সুতোয় মুক্তা গাঁথার মতো সমস্ত কিছু আমার উপর নির্ভর করে।"
+        },
+        {
+          "verse_number": 8,
+          "verse_id": "7.8",
+          "english": "O son of Kunti, I am the taste of water, the light of the sun and the moon, the syllable om in the Vedic mantras; I am the sound in ether and ability in man.",
+          "bengali": "হে কুন্তীপুত্র, আমি জলের স্বাদ, সূর্য ও চন্দ্রের আলো, বেদমন্ত্রের ওঁকার; আমি আকাশের শব্দ এবং মানুষের সামর্থ্য।"
+        },
+        {
+          "verse_number": 14,
+          "verse_id": "7.14",
+          "english": "This divine energy of Mine, consisting of the three modes of material nature, is difficult to overcome. But those who have surrendered unto Me can easily cross beyond it.",
+          "bengali": "প্রকৃতির ত্রিগুণ নিয়ে গঠিত আমার এই দৈবী শক্তি অতিক্রম করা কঠিন। কিন্তু যারা আমার শরণ নিয়েছে তারা সহজেই এটি অতিক্রম করতে পারে।"
+        },
+        {
+          "verse_number": 16,
+          "verse_id": "7.16",
+          "english": "O best among the Bharatas, four kinds of pious men begin to render devotional service unto Me — the distressed, the desirer of wealth, the inquisitive, and he who is searching for knowledge of the Absolute.",
+          "bengali": "হে ভরতশ্রেষ্ঠ, চার ধরনের পুণ্যবান মানুষ আমার ভক্তিমূলক সেবায় নিয়োজিত হয় — দুর্দশাগ্রস্ত, ধন-প্রার্থী, জিজ্ঞাসু এবং পরমসত্তার জ্ঞান অনুসন্ধানকারী।"
+        },
+        {
+          "verse_number": 19,
+          "verse_id": "7.19",
+          "english": "After many births and deaths, he who is actually in knowledge surrenders unto Me, knowing Me to be the cause of all causes and all that is. Such a great soul is very rare.",
+          "bengali": "বহু জন্ম-মৃত্যুর পর যে ব্যক্তি প্রকৃত জ্ঞান লাভ করে, সে আমাকে সমস্ত কারণের কারণ এবং সর্বস্ব বলে জেনে আমার শরণ নেয়। এই ধরনের মহান আত্মা অত্যন্ত বিরল।"
+        },
+        {
+          "verse_number": 26,
+          "verse_id": "7.26",
+          "english": "O Arjuna, as the Supreme Personality of Godhead, I know everything that has happened in the past, all that is happening in the present, and all things that are yet to come. I also know all living entities, but Me no one knows.",
+          "bengali": "হে অর্জুন, পরম পুরুষোত্তম ভগবান হিসেবে আমি অতীতে যা ঘটেছে, বর্তমানে যা ঘটছে এবং ভবিষ্যতে যা ঘটবে সবই জানি। আমি সমস্ত জীবকেও জানি, কিন্তু আমাকে কেউ জানে না।"
+        },
+        {
+          "verse_number": 30,
+          "verse_id": "7.30",
+          "english": "Those who know Me as the Supreme Lord, as the governing principle of the material manifestation, who know Me as the one underlying all the demigods and as the one sustaining all sacrifice, can understand Me fully and know Me even at the time of death.",
+          "bengali": "যারা আমাকে পরম পুরুষ হিসেবে, জড় প্রকাশের নিয়ন্ত্রণকারী নীতি হিসেবে, সমস্ত দেবতার অধীনস্থ একমাত্র সত্তা এবং সমস্ত যজ্ঞের একমাত্র ধারক হিসেবে জানে, তারা আমাকে সম্পূর্ণরূপে বুঝতে পারে এবং মৃত্যুর সময়ও আমাকে জানতে পারে।"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "name": "Aksara Brahma Yoga",
+      "name_bengali": "অক্ষর ব্রহ্ম যোগ",
+      "verses": [
+        {
+          "verse_number": 5,
+          "verse_id": "8.5",
+          "english": "Whoever, at the time of death, gives up the body remembering Me alone, reaches My state. Of this there is no doubt.",
+          "bengali": "যে ব্যক্তি মৃত্যুর সময় শুধুমাত্র আমাকে স্মরণ করে দেহ ত্যাগ করে, সে আমার অবস্থায় পৌঁছায়। এ বিষয়ে কোনো সন্দেহ নেই।"
+        },
+        {
+          "verse_number": 6,
+          "verse_id": "8.6",
+          "english": "Whatever state of being one remembers when he quits his body, O son of Kunti, that state he will attain without fail.",
+          "bengali": "হে কুন্তীপুত্র, মৃত্যুর সময় মানুষ যে অবস্থার কথা স্মরণ করে শরীর ত্যাগ করে, সে অবশ্যই সেই অবস্থা লাভ করে।"
+        },
+        {
+          "verse_number": 7,
+          "verse_id": "8.7",
+          "english": "Therefore, Arjuna, you should always think of Me in the form of Krishna and at the same time carry out your prescribed duty of fighting. With your activities dedicated to Me and your mind and intelligence fixed on Me, you will attain Me without doubt.",
+          "bengali": "তাই হে অর্জুন, তুমি সর্বদা কৃষ্ণরূপে আমার কথা চিন্তা করো এবং একই সাথে যুদ্ধের নির্ধারিত কর্তব্য পালন করো। তোমার কর্ম আমাকে উৎসর্গ করে এবং মন ও বুদ্ধি আমাতে স্থির রেখে, তুমি নিঃসন্দেহে আমাকে লাভ করবে।"
+        },
+        {
+          "verse_number": 9,
+          "verse_id": "8.9",
+          "english": "One should meditate upon the Supreme Person as the one who knows everything, who is the oldest, who is the controller, who is smaller than the smallest, who is the maintainer of everything, who is beyond all material conception, who is inconceivable, and who is always a person.",
+          "bengali": "সর্বজ্ঞ, প্রাচীনতম, নিয়ন্ত্রক, ক্ষুদ্রতম থেকেও ক্ষুদ্র, সমস্ত কিছুর পালক, সমস্ত জড় ধারণার ঊর্ধ্বে, অচিন্তনীয় এবং সর্বদা পুরুষ হিসেবে পরম পুরুষের ধ্যান করা উচিত।"
+        },
+        {
+          "verse_number": 14,
+          "verse_id": "8.14",
+          "english": "For one who always remembers Me without deviation, I am easy to obtain, O son of Pritha, because of his constant engagement in devotional service.",
+          "bengali": "হে পৃথাপুত্র, যে সর্বদা বিচ্যুতিহীনভাবে আমাকে স্মরণ করে, ভক্তিমূলক সেবায় নিরন্তর নিযুক্ত থাকায় আমি তার কাছে সহজলভ্য।"
+        },
+        {
+          "verse_number": 15,
+          "verse_id": "8.15",
+          "english": "After attaining Me, the great souls, who are yogis in devotion, never return to this temporary world of misery, as they have attained the highest perfection.",
+          "bengali": "আমাকে লাভ করার পর ভক্তিতে যোগী মহান আত্মারা আর এই অনিত্য দুঃখের জগতে ফিরে আসে না, কারণ তারা সর্বোচ্চ সিদ্ধি লাভ করেছে।"
+        },
+        {
+          "verse_number": 27,
+          "verse_id": "8.27",
+          "english": "Although the devotees know these two paths, O Arjuna, they are never bewildered. Therefore, be always fixed in devotion.",
+          "bengali": "হে অর্জুন, ভক্তরা এই দুটি পথ জানলেও কখনো বিমোহিত হয় না। তাই সর্বদা ভক্তিতে স্থির থাকো।"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "name": "Raja Vidya Yoga",
+      "name_bengali": "রাজ বিদ্যা যোগ",
+      "verses": [
+        {
+          "verse_number": 2,
+          "verse_id": "9.2",
+          "english": "This knowledge is the king of education, the most secret of all secrets. It is the purest knowledge, and because it gives direct perception of the self by realization, it is the perfection of religion. It is everlasting, and it is joyfully performed.",
+          "bengali": "এই জ্ঞান শিক্ষার রাজা, সমস্ত রহস্যের সবচেয়ে গোপনীয়। এটি বিশুদ্ধতম জ্ঞান এবং সাক্ষাৎ আত্ম-উপলব্ধি দেয় বলে এটি ধর্মের পরিপূর্ণতা। এটি চিরন্তন এবং আনন্দের সাথে পালিত হয়।"
+        },
+        {
+          "verse_number": 4,
+          "verse_id": "9.4",
+          "english": "By Me, in My unmanifested form, this entire universe is pervaded. All beings are in Me, but I am not in them.",
+          "bengali": "আমার অব্যক্ত রূপে এই সমগ্র মহাবিশ্ব আমার দ্বারা ব্যাপ্ত। সমস্ত সত্তা আমার মধ্যে আছে, কিন্তু আমি তাদের মধ্যে নেই।"
+        },
+        {
+          "verse_number": 10,
+          "verse_id": "9.10",
+          "english": "This material nature, which is one of My energies, is working under My direction, O son of Kunti, producing all moving and nonmoving beings. Under its rule this manifestation is created and annihilated again and again.",
+          "bengali": "হে কুন্তীপুত্র, আমার এক শক্তি এই প্রকৃতি আমার নির্দেশে কাজ করছে এবং সমস্ত চর-অচর সত্তা তৈরি করছে। এর নিয়মে বারবার এই সৃষ্টি হয় এবং বিনষ্ট হয়।"
+        },
+        {
+          "verse_number": 22,
+          "verse_id": "9.22",
+          "english": "But those who always worship Me with exclusive devotion, meditating on My transcendental form — to them I carry what they lack, and I preserve what they have.",
+          "bengali": "কিন্তু যারা একনিষ্ঠ ভক্তিতে সর্বদা আমার ধ্যান করে আমার পূজা করে — তাদের যা নেই তা আমি বহন করি এবং তাদের যা আছে তা আমি রক্ষা করি।"
+        },
+        {
+          "verse_number": 26,
+          "verse_id": "9.26",
+          "english": "If one offers Me with love and devotion a leaf, a flower, a fruit, or water, I will accept it.",
+          "bengali": "কেউ যদি ভালোবাসা ও ভক্তি সহকারে আমাকে একটি পাতা, একটি ফুল, একটি ফল বা জল দেয়, আমি তা গ্রহণ করব।"
+        },
+        {
+          "verse_number": 27,
+          "verse_id": "9.27",
+          "english": "O son of Kunti, all that you do, all that you eat, all that you offer and give away, as well as all austerities that you may perform, should be done as an offering unto Me.",
+          "bengali": "হে কুন্তীপুত্র, তুমি যা করো, যা খাও, যা উৎসর্গ করো ও দান করো এবং যত তপস্যা করো — সবই আমাকে নিবেদন হিসেবে করো।"
+        },
+        {
+          "verse_number": 29,
+          "verse_id": "9.29",
+          "english": "I envy no one, nor am I partial to anyone. I am equal to all. But whoever renders service unto Me in devotion is a friend, is in Me, and I am also a friend to him.",
+          "bengali": "আমি কাউকে হিংসা করি না, কারো প্রতি পক্ষপাতও করি না। আমি সকলের প্রতি সমান। কিন্তু যে ভক্তিতে আমার সেবা করে সে বন্ধু, সে আমার মধ্যে আছে এবং আমিও তার বন্ধু।"
+        },
+        {
+          "verse_number": 34,
+          "verse_id": "9.34",
+          "english": "Engage your mind always in thinking of Me, become My devotee, offer obeisances to Me, and worship Me. Being completely absorbed in Me, surely you will come to Me.",
+          "bengali": "সর্বদা মন আমার চিন্তায় নিয়োজিত রাখো, আমার ভক্ত হও, আমাকে প্রণাম করো এবং আমার পূজা করো। আমাতে সম্পূর্ণ নিমগ্ন হয়ে নিশ্চয়ই তুমি আমার কাছে আসবে।"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "name": "Vibhuti Yoga",
+      "name_bengali": "বিভূতি যোগ",
+      "verses": [
+        {
+          "verse_number": 8,
+          "verse_id": "10.8",
+          "english": "I am the source of all spiritual and material worlds. Everything emanates from Me. The wise who perfectly know this engage in My devotional service and worship Me with all their hearts.",
+          "bengali": "আমি সমস্ত আধ্যাত্মিক ও জড় জগতের উৎস। সমস্ত কিছু আমা থেকে উৎপন্ন। যে জ্ঞানীরা এটি নিখুঁতভাবে জানে, তারা সম্পূর্ণ হৃদয় দিয়ে আমার ভক্তিমূলক সেবায় নিয়োজিত হয় এবং আমার পূজা করে।"
+        },
+        {
+          "verse_number": 9,
+          "verse_id": "10.9",
+          "english": "The thoughts of My pure devotees dwell in Me, their lives are fully devoted to My service, and they derive great satisfaction and bliss from always enlightening one another and conversing about Me.",
+          "bengali": "আমার বিশুদ্ধ ভক্তদের চিন্তা আমার মধ্যে বাস করে, তাদের জীবন সম্পূর্ণরূপে আমার সেবায় নিয়োজিত এবং একে অপরকে আলোকিত করে ও আমার বিষয়ে আলোচনা করে তারা মহা সন্তুষ্টি ও আনন্দ লাভ করে।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "10.20",
+          "english": "I am the Supersoul, O Arjuna, seated in the hearts of all living entities. I am the beginning, the middle, and the end of all beings.",
+          "bengali": "হে অর্জুন, আমি পরমাত্মা, সমস্ত জীবের হৃদয়ে বিরাজমান। আমি সমস্ত সত্তার শুরু, মধ্য এবং শেষ।"
+        },
+        {
+          "verse_number": 41,
+          "verse_id": "10.41",
+          "english": "Know that all opulent, beautiful, and glorious creations spring from but a spark of My splendor.",
+          "bengali": "জানো যে সমস্ত ঐশ্বর্যময়, সুন্দর এবং গৌরবময় সৃষ্টি আমার বৈভবের মাত্র একটি ঝলক থেকে উৎপন্ন।"
+        },
+        {
+          "verse_number": 42,
+          "verse_id": "10.42",
+          "english": "But what need is there, Arjuna, for all this detailed knowledge? With a single fragment of Myself I pervade and support this entire universe.",
+          "bengali": "হে অর্জুন, এত বিস্তারিত জ্ঞানের কী প্রয়োজন? আমার একটিমাত্র অংশ দিয়ে আমি এই সমগ্র মহাবিশ্ব ব্যাপ্ত করে ধারণ করে আছি।"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "name": "Visvarupa Darsana Yoga",
+      "name_bengali": "বিশ্বরূপ দর্শন যোগ",
+      "verses": [
+        {
+          "verse_number": 7,
+          "verse_id": "11.7",
+          "english": "O Arjuna, whatever you wish to see, behold at once in this body of Mine! This universal form can show you whatever you now desire to see and whatever you may want to see in the future.",
+          "bengali": "হে অর্জুন, তুমি যা দেখতে চাও তা আমার এই শরীরে এখনই দেখো! এই বিশ্বরূপ তোমাকে এখন যা দেখতে চাও এবং ভবিষ্যতে যা দেখতে চাইবে সবই দেখাতে পারে।"
+        },
+        {
+          "verse_number": 18,
+          "verse_id": "11.18",
+          "english": "You are the supreme primal objective. You are the ultimate resting place of all this universe. You are inexhaustible, and You are the oldest. You are the maintainer of the eternal religion, the Personality of Godhead. This is my opinion.",
+          "bengali": "তুমি পরম আদি উদ্দেশ্য। তুমি এই সমগ্র মহাবিশ্বের চূড়ান্ত আশ্রয়। তুমি অফুরন্ত এবং তুমি প্রাচীনতম। তুমি শাশ্বত ধর্মের রক্ষক, ভগবৎ পুরুষোত্তম। এটি আমার মত।"
+        },
+        {
+          "verse_number": 32,
+          "verse_id": "11.32",
+          "english": "The Supreme Lord said: Time I am, the great destroyer of the worlds, and I have come here to destroy all people. With the exception of you, all the soldiers here on both sides will be slain.",
+          "bengali": "শ্রীভগবান বললেন: আমি কাল, জগতের মহাবিনাশক এবং সমস্ত মানুষকে বিনষ্ট করতে এখানে এসেছি। তোমাকে ছাড়া উভয় পক্ষের সমস্ত সৈনিক বধ হবে।"
+        },
+        {
+          "verse_number": 33,
+          "verse_id": "11.33",
+          "english": "Therefore get up. Prepare to fight and win glory. Conquer your enemies and enjoy a flourishing kingdom. They are already put to death by My arrangement, and you, O Savyasachin, can be but an instrument in the fight.",
+          "bengali": "তাই ওঠো। যুদ্ধ করতে প্রস্তুত হও এবং যশ অর্জন করো। শত্রুদের জয় করো এবং সমৃদ্ধ রাজ্য উপভোগ করো। আমার ব্যবস্থাতে তারা ইতিমধ্যে নিহত হয়েছে এবং হে সব্যসাচী, তুমি যুদ্ধে কেবল একটি নিমিত্ত মাত্র।"
+        },
+        {
+          "verse_number": 54,
+          "verse_id": "11.54",
+          "english": "My dear Arjuna, only by undivided devotional service can I be understood as I am, standing before you, and can thus be seen directly. Only in this way can you enter into the mysteries of My understanding.",
+          "bengali": "হে প্রিয় অর্জুন, কেবলমাত্র অবিভক্ত ভক্তিমূলক সেবার মাধ্যমে তোমার সামনে দাঁড়িয়ে আমাকে যেভাবে আছি সেভাবে বোঝা যায় এবং সরাসরি দেখা যায়। শুধু এইভাবেই তুমি আমার উপলব্ধির রহস্যে প্রবেশ করতে পারবে।"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "name": "Bhakti Yoga",
+      "name_bengali": "ভক্তি যোগ",
+      "verses": [
+        {
+          "verse_number": 2,
+          "verse_id": "12.2",
+          "english": "The Supreme Lord said: Those who fix their minds on My personal form and are always engaged in worshiping Me with great and transcendental faith are considered by Me to be most perfect.",
+          "bengali": "শ্রীভগবান বললেন: যারা তাদের মন আমার ব্যক্তিগত রূপে স্থির করে এবং সর্বদা মহান অতীন্দ্রিয় বিশ্বাসে আমার পূজায় নিয়োজিত থাকে, তাদেরকে আমি সবচেয়ে নিখুঁত বলে মনে করি।"
+        },
+        {
+          "verse_number": 8,
+          "verse_id": "12.8",
+          "english": "Just fix your mind upon Me, the Supreme Personality of Godhead, and engage all your intelligence in Me. Thus you will live in Me always, without a doubt.",
+          "bengali": "শুধু তোমার মন আমার উপর, পরম ব্যক্তিত্ব ভগবানের উপর, স্থির করো এবং তোমার সমস্ত বুদ্ধি আমাতে নিয়োগ করো। এইভাবে তুমি সর্বদা আমার মধ্যে বাস করবে, নিঃসন্দেহে।"
+        },
+        {
+          "verse_number": 13,
+          "verse_id": "12.13",
+          "english": "One who is not envious but is a kind friend to all living entities, who does not think himself a proprietor and is free from false ego, who is equal in both happiness and distress, who is tolerant, always satisfied, self-controlled, and engaged in devotional service with determination — he is very dear to Me.",
+          "bengali": "যে হিংসুক নয় বরং সমস্ত জীবের দয়ালু বন্ধু, যে নিজেকে মালিক মনে করে না এবং মিথ্যা অহংকার থেকে মুক্ত, যে সুখ-দুঃখে সমান, সহনশীল, সর্বদা সন্তুষ্ট, আত্মনিয়ন্ত্রিত এবং দৃঢ়তার সাথে ভক্তিমূলক সেবায় নিয়োজিত — সে আমার অত্যন্ত প্রিয়।"
+        },
+        {
+          "verse_number": 15,
+          "verse_id": "12.15",
+          "english": "He by whom no one is put into difficulty and who is not disturbed by anyone, who is equipoised in happiness and distress, fear and anxiety, is very dear to Me.",
+          "bengali": "যে কাউকে কষ্ট দেয় না এবং কেউ যাকে বিচলিত করতে পারে না, যে সুখ-দুঃখ, ভয় ও উদ্বেগে সমভাবাপন্ন — সে আমার অত্যন্ত প্রিয়।"
+        },
+        {
+          "verse_number": 19,
+          "verse_id": "12.19",
+          "english": "One who is equal to friends and enemies, who is equipoised in honor and dishonor, heat and cold, happiness and distress, fame and infamy, who is always free from contaminating association, always silent and satisfied with anything, who doesn't care for any residence, who is fixed in knowledge and who is engaged in devotional service — such a person is very dear to Me.",
+          "bengali": "যে বন্ধু ও শত্রুর প্রতি সমান, সম্মান ও অসম্মান, তাপ ও শীত, সুখ ও দুঃখ, যশ ও অপযশে সমভাবাপন্ন, যে সর্বদা কলুষিত সঙ্গ থেকে মুক্ত, সর্বদা নীরব এবং যেকোনো কিছুতে সন্তুষ্ট, যে কোনো বাসস্থানের পরওয়া করে না, জ্ঞানে অবিচল এবং ভক্তিমূলক সেবায় নিয়োজিত — এইরূপ ব্যক্তি আমার অত্যন্ত প্রিয়।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "12.20",
+          "english": "Those who follow this imperishable path of devotional service and who completely engage themselves with faith, making Me the supreme goal, are very, very dear to Me.",
+          "bengali": "যারা ভক্তিমূলক সেবার এই অবিনশ্বর পথ অনুসরণ করে এবং আমাকে পরম লক্ষ্য বানিয়ে বিশ্বাসের সাথে সম্পূর্ণরূপে নিয়োজিত হয়, তারা আমার অত্যন্ত, অত্যন্ত প্রিয়।"
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "name": "Ksetra Ksetrajna Vibhaga Yoga",
+      "name_bengali": "ক্ষেত্র ক্ষেত্রজ্ঞ বিভাগ যোগ",
+      "verses": [
+        {
+          "verse_number": 3,
+          "verse_id": "13.3",
+          "english": "O scion of Bharata, you should understand that I am also the knower in all bodies, and to understand this body and its knower is called knowledge. That is My opinion.",
+          "bengali": "হে ভরতবংশীয়, জানো যে আমিও সমস্ত শরীরে জ্ঞাতা। এই শরীর ও তার জ্ঞাতাকে বোঝাকেই জ্ঞান বলে। এটিই আমার মত।"
+        },
+        {
+          "verse_number": 8,
+          "verse_id": "13.8",
+          "english": "Humbleness, pridelessness, nonviolence, tolerance, simplicity, approaching a bona fide spiritual master, cleanliness, steadiness and self-control — these are declared to be knowledge.",
+          "bengali": "নম্রতা, অহংকারশূন্যতা, অহিংসা, সহনশীলতা, সরলতা, বিশ্বস্ত গুরুর কাছে যাওয়া, পরিচ্ছন্নতা, স্থিরতা ও আত্মনিয়ন্ত্রণ — এগুলোকে জ্ঞান বলে ঘোষণা করা হয়।"
+        },
+        {
+          "verse_number": 12,
+          "verse_id": "13.12",
+          "english": "I shall now explain the knowable, knowing which you will taste the eternal. Brahman, the spirit, beginningless and subordinate to Me, lies beyond the cause and effect of this material world.",
+          "bengali": "আমি এখন জ্ঞাতব্য বিষয় ব্যাখ্যা করব, যা জেনে তুমি চিরন্তনকে আস্বাদ করবে। আমার অধীনস্থ আদিহীন আত্মা ব্রহ্ম এই জড় জগতের কার্য-কারণের ঊর্ধ্বে।"
+        },
+        {
+          "verse_number": 22,
+          "verse_id": "13.22",
+          "english": "The living entity in material nature thus follows the ways of life, enjoying the three modes of nature. This is due to his association with that material nature. Thus he meets with good and evil among various species.",
+          "bengali": "জড় প্রকৃতিতে জীব এইভাবে জীবনের পথ অনুসরণ করে, প্রকৃতির ত্রিগুণ উপভোগ করে। এটি সেই প্রকৃতির সাথে তার সংসর্গের কারণে। এইভাবে সে বিভিন্ন প্রজাতির মধ্যে ভালো-মন্দের সম্মুখীন হয়।"
+        },
+        {
+          "verse_number": 27,
+          "verse_id": "13.27",
+          "english": "One who sees the Supersoul equally present everywhere, in every living being, does not degrade himself by his mind. Thus he approaches the transcendental destination.",
+          "bengali": "যে ব্যক্তি পরমাত্মাকে সর্বত্র, প্রতিটি জীবের মধ্যে সমভাবে বিরাজমান দেখে, সে নিজের মন দিয়ে নিজেকে অবনত করে না। এইভাবে সে অতীন্দ্রিয় গন্তব্যে পৌঁছায়।"
+        },
+        {
+          "verse_number": 33,
+          "verse_id": "13.33",
+          "english": "O son of Bharata, as the sun alone illuminates all this universe, so does the living entity, one within the body, illuminate the entire body by consciousness.",
+          "bengali": "হে ভরতপুত্র, যেমন একা সূর্য এই সমগ্র মহাবিশ্বকে আলোকিত করে, তেমনই শরীরের মধ্যে একটিমাত্র জীব চেতনার দ্বারা সমগ্র শরীরকে আলোকিত করে।"
+        },
+        {
+          "verse_number": 35,
+          "verse_id": "13.35",
+          "english": "Those who see with eyes of knowledge the difference between the body and the knower of the body, and can also understand the process of liberation from bondage in material nature, attain to the supreme goal.",
+          "bengali": "যারা জ্ঞানের চক্ষু দিয়ে শরীর ও শরীরের জ্ঞাতার মধ্যে পার্থক্য দেখে এবং জড় প্রকৃতির বন্ধন থেকে মুক্তির প্রক্রিয়াও বুঝতে পারে, তারা পরম লক্ষ্যে পৌঁছায়।"
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "name": "Gunatraya Vibhaga Yoga",
+      "name_bengali": "গুণত্রয় বিভাগ যোগ",
+      "verses": [
+        {
+          "verse_number": 5,
+          "verse_id": "14.5",
+          "english": "Material nature consists of three modes — goodness, passion, and ignorance. When the eternal living entity comes in contact with nature, O mighty-armed Arjuna, he becomes conditioned by these modes.",
+          "bengali": "প্রকৃতি তিনটি গুণ নিয়ে গঠিত — সত্ত্ব, রজ ও তম। হে মহাবাহু অর্জুন, চিরন্তন জীব যখন প্রকৃতির সংস্পর্শে আসে, তখন সে এই গুণগুলো দ্বারা আবদ্ধ হয়।"
+        },
+        {
+          "verse_number": 6,
+          "verse_id": "14.6",
+          "english": "O sinless one, the mode of goodness, being purer than the others, is illuminating, and it frees one from all sinful reactions. Those situated in that mode become conditioned by a sense of happiness and knowledge.",
+          "bengali": "হে নিষ্পাপ, সত্ত্বগুণ অন্যদের তুলনায় বিশুদ্ধতর, আলোকময় এবং এটি সমস্ত পাপময় প্রতিক্রিয়া থেকে মুক্ত করে। এই গুণে অবস্থিত ব্যক্তিরা সুখ ও জ্ঞানের অনুভূতি দ্বারা আবদ্ধ হয়।"
+        },
+        {
+          "verse_number": 14,
+          "verse_id": "14.14",
+          "english": "When one dies in the mode of goodness, he attains to the pure higher planets of the great sages.",
+          "bengali": "যখন কেউ সত্ত্বগুণে মৃত্যুবরণ করে, তখন সে মহর্ষিদের বিশুদ্ধ উচ্চতর গ্রহে পৌঁছায়।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "14.20",
+          "english": "When the embodied being is able to transcend these three modes associated with the material body, he can become free from birth, death, old age and their distresses and can enjoy nectar even in this life.",
+          "bengali": "যখন দেহধারী সত্তা জড় শরীরের সাথে সম্পর্কিত এই ত্রিগুণ অতিক্রম করতে পারে, তখন সে জন্ম, মৃত্যু, বার্ধক্য ও তাদের দুঃখ থেকে মুক্ত হতে পারে এবং এই জীবনেই অমৃত উপভোগ করতে পারে।"
+        },
+        {
+          "verse_number": 26,
+          "verse_id": "14.26",
+          "english": "One who engages in full devotional service, unfailing in all circumstances, at once transcends the modes of material nature and thus comes to the level of Brahman.",
+          "bengali": "যে সর্বক্ষেত্রে অব্যর্থভাবে পূর্ণ ভক্তিমূলক সেবায় নিয়োজিত হয়, সে সঙ্গে সঙ্গে প্রকৃতির গুণ অতিক্রম করে ব্রহ্মের স্তরে পৌঁছায়।"
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "name": "Purushottama Yoga",
+      "name_bengali": "পুরুষোত্তম যোগ",
+      "verses": [
+        {
+          "verse_number": 1,
+          "verse_id": "15.1",
+          "english": "The Supreme Lord said: It is said that there is an imperishable banyan tree that has its roots upward and its branches down and whose leaves are the Vedic hymns. One who knows this tree is the knower of the Vedas.",
+          "bengali": "শ্রীভগবান বললেন: বলা হয় যে একটি অবিনশ্বর বটবৃক্ষ আছে যার শিকড় উপরে ও শাখা নিচে এবং যার পাতা বৈদিক স্তোত্র। যে এই বৃক্ষ জানে সে বেদের জ্ঞাতা।"
+        },
+        {
+          "verse_number": 5,
+          "verse_id": "15.5",
+          "english": "Those who are free from false prestige, illusion and false association, who understand the eternal, who are done with material lust, who are freed from the dualities of happiness and distress, and who know how to surrender unto the Supreme Person, attain to that eternal kingdom.",
+          "bengali": "যারা মিথ্যা প্রতিপত্তি, মায়া ও মিথ্যা সংসর্গ থেকে মুক্ত, যারা শাশ্বতকে বোঝে, যারা জাগতিক কামনা পরিত্যাগ করেছে, যারা সুখ-দুঃখের দ্বৈততা থেকে মুক্ত এবং যারা পরম পুরুষের কাছে শরণ নিতে জানে, তারা সেই চিরন্তন রাজ্যে পৌঁছায়।"
+        },
+        {
+          "verse_number": 6,
+          "verse_id": "15.6",
+          "english": "That supreme abode of Mine is not illumined by the sun or moon, nor by fire or electricity. Those who reach it never return to this material world.",
+          "bengali": "আমার সেই পরম ধাম সূর্য বা চন্দ্র দ্বারা আলোকিত নয়, আগুন বা বিদ্যুৎ দ্বারাও নয়। যারা সেখানে পৌঁছায় তারা আর কখনো এই জড় জগতে ফিরে আসে না।"
+        },
+        {
+          "verse_number": 15,
+          "verse_id": "15.15",
+          "english": "I am seated in everyone's heart, and from Me come remembrance, knowledge and forgetfulness. By all the Vedas, I am to be known. Indeed, I am the compiler of Vedanta, and I am the knower of the Vedas.",
+          "bengali": "আমি সকলের হৃদয়ে বিরাজমান এবং আমার কাছ থেকেই স্মৃতি, জ্ঞান ও বিস্মৃতি আসে। সমস্ত বেদ দ্বারা আমাকেই জানতে হবে। প্রকৃতপক্ষে, আমিই বেদান্তের রচয়িতা এবং আমিই বেদের জ্ঞাতা।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "15.20",
+          "english": "This is the most secret part of the Vedic scriptures, O sinless one, and it is disclosed now by Me. Whoever understands this will become wise, and his endeavors will know perfection.",
+          "bengali": "হে নিষ্পাপ, এটি বৈদিক শাস্ত্রের সবচেয়ে গোপন অংশ এবং এটি এখন আমার দ্বারা প্রকাশ করা হচ্ছে। যে এটি বোঝে সে জ্ঞানী হবে এবং তার প্রচেষ্টা পরিপূর্ণতা পাবে।"
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "name": "Daivasura Sampad Vibhaga Yoga",
+      "name_bengali": "দৈবাসুর সম্পদ বিভাগ যোগ",
+      "verses": [
+        {
+          "verse_number": 1,
+          "verse_id": "16.1",
+          "english": "The Supreme Lord said: Fearlessness, purification of one's existence, cultivation of spiritual knowledge, charity, self-control, performance of sacrifice, study of the Vedas, austerity and simplicity — these are the divine qualities of godly persons.",
+          "bengali": "শ্রীভগবান বললেন: নির্ভীকতা, অস্তিত্বের পরিশুদ্ধি, আধ্যাত্মিক জ্ঞানের চর্চা, দান, আত্মনিয়ন্ত্রণ, যজ্ঞ সম্পাদন, বেদ অধ্যয়ন, তপস্যা ও সরলতা — এগুলো ঐশ্বরিক মানুষদের দৈবী গুণ।"
+        },
+        {
+          "verse_number": 3,
+          "verse_id": "16.3",
+          "english": "Splendor, forgiveness, fortitude, cleanliness, freedom from envy and from the passion for honor — these transcendental qualities, O son of Bharata, belong to godly men endowed with divine nature.",
+          "bengali": "জ্যোতি, ক্ষমা, ধৈর্য, পরিচ্ছন্নতা, হিংসামুক্তি এবং সম্মানের আকাঙ্ক্ষা থেকে মুক্তি — হে ভরতপুত্র, এই অতীন্দ্রিয় গুণগুলো দৈবী প্রকৃতিসম্পন্ন ঐশ্বরিক মানুষদের অন্তর্গত।"
+        },
+        {
+          "verse_number": 21,
+          "verse_id": "16.21",
+          "english": "There are three gates leading to this hell — lust, anger, and greed. Every sane man should give these up, for they lead to the degradation of the soul.",
+          "bengali": "এই নরকের দিকে নিয়ে যাওয়া তিনটি দ্বার আছে — কাম, ক্রোধ ও লোভ। প্রতিটি বুদ্ধিমান মানুষের এগুলো ত্যাগ করা উচিত, কারণ এগুলো আত্মার অবনতির দিকে নিয়ে যায়।"
+        },
+        {
+          "verse_number": 24,
+          "verse_id": "16.24",
+          "english": "One should therefore understand what is duty and what is not duty by the regulations of the scriptures. Knowing such rules and regulations, one should act so that one may gradually be elevated.",
+          "bengali": "তাই শাস্ত্রের বিধি-বিধান দ্বারা কী কর্তব্য আর কী নয় তা বুঝতে হবে। এই নিয়ম-কানুন জেনে মানুষের এমনভাবে কাজ করা উচিত যাতে ক্রমশ উন্নতি হয়।"
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "name": "Sraddhatraya Vibhaga Yoga",
+      "name_bengali": "শ্রদ্ধাত্রয় বিভাগ যোগ",
+      "verses": [
+        {
+          "verse_number": 3,
+          "verse_id": "17.3",
+          "english": "O son of Bharata, according to one's existence under the various modes of nature, one evolves a particular kind of faith. The living being is said to be of a particular faith according to the modes he has acquired.",
+          "bengali": "হে ভরতপুত্র, প্রকৃতির বিভিন্ন গুণের অধীনে নিজের অস্তিত্ব অনুযায়ী মানুষ এক বিশেষ ধরনের বিশ্বাস গড়ে তোলে। জীবকে যে গুণ সে অর্জন করেছে সে অনুযায়ী বিশেষ বিশ্বাসের বলে বলা হয়।"
+        },
+        {
+          "verse_number": 14,
+          "verse_id": "17.14",
+          "english": "Austerity of the body consists in worship of the Supreme Lord, the brahmins, the spiritual master, and superiors like the father and mother, and in cleanliness, simplicity, celibacy and nonviolence.",
+          "bengali": "শরীরের তপস্যা হলো পরমেশ্বর, ব্রাহ্মণ, গুরু এবং পিতা-মাতার মতো গুরুজনদের পূজা করা এবং পরিচ্ছন্নতা, সরলতা, ব্রহ্মচর্য ও অহিংসা।"
+        },
+        {
+          "verse_number": 15,
+          "verse_id": "17.15",
+          "english": "Austerity of speech consists in speaking words that are truthful, pleasing, beneficial, and not agitating to others, and also in regularly reciting Vedic literature.",
+          "bengali": "বাক্যের তপস্যা হলো এমন কথা বলা যা সত্য, মনোরম, উপকারী এবং অন্যদের অশান্ত করে না, এবং নিয়মিত বৈদিক সাহিত্য পাঠ করা।"
+        },
+        {
+          "verse_number": 16,
+          "verse_id": "17.16",
+          "english": "And satisfaction, simplicity, gravity, self-control and purification of one's existence are the austerities of the mind.",
+          "bengali": "এবং সন্তুষ্টি, সরলতা, গাম্ভীর্য, আত্মনিয়ন্ত্রণ ও নিজের অস্তিত্বের পরিশুদ্ধি হলো মনের তপস্যা।"
+        },
+        {
+          "verse_number": 28,
+          "verse_id": "17.28",
+          "english": "Anything done as sacrifice, charity or penance without faith in the Supreme, O son of Pritha, is impermanent. It is called asat and is useless both in this life and the next.",
+          "bengali": "হে পৃথাপুত্র, পরম সত্তার প্রতি বিশ্বাস ছাড়া যজ্ঞ, দান বা তপস্যা হিসেবে যা করা হয় তা অনিত্য। একে অসৎ বলা হয় এবং এই জীবন ও পরবর্তী জীবন উভয়ে তা নিরর্থক।"
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "name": "Moksha Sanyasa Yoga",
+      "name_bengali": "মোক্ষ সন্ন্যাস যোগ",
+      "verses": [
+        {
+          "verse_number": 5,
+          "verse_id": "18.5",
+          "english": "Acts of sacrifice, charity and penance are not to be given up; they must be performed. Indeed, sacrifice, charity and penance purify even the great souls.",
+          "bengali": "যজ্ঞ, দান ও তপস্যার কর্ম ত্যাগ করা উচিত নয়; এগুলো অবশ্যই পালন করতে হবে। প্রকৃতপক্ষে, যজ্ঞ, দান ও তপস্যা মহান আত্মাদেরও শুদ্ধ করে।"
+        },
+        {
+          "verse_number": 6,
+          "verse_id": "18.6",
+          "english": "All these activities should be performed without attachment or any desire for results. They should be performed as a matter of duty, O son of Pritha. That is My final opinion.",
+          "bengali": "এই সমস্ত কর্ম আসক্তি বা ফলের কামনা ছাড়া সম্পাদন করতে হবে। হে পৃথাপুত্র, এগুলো কর্তব্য হিসেবে পালন করতে হবে। এটিই আমার চূড়ান্ত মত।"
+        },
+        {
+          "verse_number": 17,
+          "verse_id": "18.17",
+          "english": "One who is not motivated by false ego, whose intelligence is not entangled, though he kills men in this world, does not kill. Nor is he bound by his actions.",
+          "bengali": "যে মিথ্যা অহংকার দ্বারা প্রণোদিত নয়, যার বুদ্ধি আটকে নেই, এই জগতে মানুষকে হত্যা করলেও সে হত্যা করে না। সে তার কর্মে আবদ্ধও হয় না।"
+        },
+        {
+          "verse_number": 20,
+          "verse_id": "18.20",
+          "english": "That knowledge by which one undivided spiritual nature is seen in all living entities, though they are divided into innumerable forms, you should understand to be in the mode of goodness.",
+          "bengali": "যে জ্ঞানের দ্বারা অসংখ্য রূপে বিভক্ত হলেও সমস্ত জীবের মধ্যে একটি অবিভক্ত আধ্যাত্মিক প্রকৃতি দেখা যায়, সেই জ্ঞানকে সত্ত্বগুণী বলে জানো।"
+        },
+        {
+          "verse_number": 45,
+          "verse_id": "18.45",
+          "english": "By following his qualities of work, every man can become perfect. Now please hear from Me how this can be done.",
+          "bengali": "নিজের কর্মের গুণ অনুসরণ করে প্রত্যেক মানুষ নিখুঁত হতে পারে। এখন আমার কাছ থেকে শোনো কীভাবে এটি করা যায়।"
+        },
+        {
+          "verse_number": 46,
+          "verse_id": "18.46",
+          "english": "By worship of the Lord, who is the source of all beings and who is all-pervading, a man can attain perfection through performing his own work.",
+          "bengali": "সমস্ত সত্তার উৎস ও সর্বব্যাপী প্রভুর পূজার মাধ্যমে মানুষ নিজের কর্ম সম্পাদন করে পরিপূর্ণতা লাভ করতে পারে।"
+        },
+        {
+          "verse_number": 47,
+          "verse_id": "18.47",
+          "english": "It is better to engage in one's own occupation, even though one may perform it imperfectly, than to accept another's occupation and perform it perfectly. Duties prescribed according to one's nature are never affected by sinful reactions.",
+          "bengali": "অন্যের পেশা ত্রুটিহীনভাবে গ্রহণ ও পালন করার চেয়ে নিজের পেশায়, যদিও অনিখুঁতভাবে, নিয়োজিত থাকা ভালো। নিজের প্রকৃতি অনুযায়ী নির্ধারিত কর্তব্য কখনো পাপময় প্রতিক্রিয়া দ্বারা প্রভাবিত হয় না।"
+        },
+        {
+          "verse_number": 55,
+          "verse_id": "18.55",
+          "english": "One can understand Me as I am, as the Supreme Personality of Godhead, only by devotional service. And when one is in full consciousness of Me by such devotion, he can enter into the kingdom of God.",
+          "bengali": "কেবলমাত্র ভক্তিমূলক সেবার মাধ্যমে আমাকে পরম ব্যক্তিত্ব ভগবান হিসেবে যথাযথভাবে বোঝা যায়। এইরূপ ভক্তির মাধ্যমে পূর্ণ চেতনায় থাকলে সে ঈশ্বরের রাজ্যে প্রবেশ করতে পারে।"
+        },
+        {
+          "verse_number": 61,
+          "verse_id": "18.61",
+          "english": "The Supreme Lord is situated in everyone's heart, O Arjuna, and is directing the wanderings of all living entities, who are seated as on a machine, made of the material energy.",
+          "bengali": "হে অর্জুন, পরম প্রভু সকলের হৃদয়ে বিরাজমান এবং জড় শক্তির তৈরি যন্ত্রে আরোহী সমস্ত জীবের ভ্রমণ পরিচালনা করছেন।"
+        },
+        {
+          "verse_number": 63,
+          "verse_id": "18.63",
+          "english": "Thus I have explained to you knowledge still more confidential. Deliberate on this fully, and then do what you wish to do.",
+          "bengali": "এইভাবে আমি তোমাকে আরো গোপনীয় জ্ঞান ব্যাখ্যা করেছি। এটি সম্পূর্ণরূপে বিবেচনা করো এবং তারপর তুমি যা ইচ্ছে করো।"
+        },
+        {
+          "verse_number": 64,
+          "verse_id": "18.64",
+          "english": "Because you are My very dear friend, I am speaking to you My supreme instruction, the most confidential knowledge of all. Hear this from Me, for it is for your benefit.",
+          "bengali": "তুমি আমার অত্যন্ত প্রিয় বন্ধু বলে আমি তোমাকে আমার সর্বোচ্চ নির্দেশ, সমস্তের মধ্যে সবচেয়ে গোপনীয় জ্ঞান বলছি। এটি আমার কাছ থেকে শোনো, কারণ এটি তোমার কল্যাণের জন্য।"
+        },
+        {
+          "verse_number": 65,
+          "verse_id": "18.65",
+          "english": "Always think of Me, become My devotee, worship Me and offer your homage unto Me. Thus you will come to Me without fail. I promise you this because you are My very dear friend.",
+          "bengali": "সর্বদা আমার কথা ভাবো, আমার ভক্ত হও, আমার পূজা করো এবং আমাকে প্রণাম করো। এইভাবে তুমি অবশ্যই আমার কাছে আসবে। আমি এটির প্রতিশ্রুতি দিচ্ছি কারণ তুমি আমার অত্যন্ত প্রিয় বন্ধু।"
+        },
+        {
+          "verse_number": 66,
+          "verse_id": "18.66",
+          "english": "Abandon all varieties of religion and just surrender unto Me. I shall deliver you from all sinful reactions. Do not fear.",
+          "bengali": "সমস্ত ধর্ম পরিত্যাগ করে শুধু আমার শরণ নাও। আমি তোমাকে সমস্ত পাপ থেকে মুক্ত করব। ভয় পেয়ো না।"
+        },
+        {
+          "verse_number": 67,
+          "verse_id": "18.67",
+          "english": "This confidential knowledge may never be explained to those who are not austere, or devoted, or engaged in devotional service, nor to one who is envious of Me.",
+          "bengali": "এই গোপনীয় জ্ঞান কখনো তাদের কাছে ব্যাখ্যা করা যাবে না যারা তপস্বী নয়, বা ভক্ত নয়, বা ভক্তিমূলক সেবায় নিয়োজিত নয়, বা আমার প্রতি হিংসুক।"
+        },
+        {
+          "verse_number": 70,
+          "verse_id": "18.70",
+          "english": "I declare that he who studies this sacred conversation of ours worships Me by his intelligence.",
+          "bengali": "আমি ঘোষণা করছি যে যে আমাদের এই পবিত্র কথোপকথন অধ্যয়ন করে, সে তার বুদ্ধি দ্বারা আমার পূজা করে।"
+        },
+        {
+          "verse_number": 73,
+          "verse_id": "18.73",
+          "english": "Arjuna said: My dear Krishna, O infallible one, my illusion is now gone. I have regained my memory by Your mercy. I am now firm and free from doubt and am prepared to act according to Your instructions.",
+          "bengali": "অর্জুন বললেন: হে প্রিয় কৃষ্ণ, হে অভ্রান্ত, আমার মোহ এখন দূর হয়েছে। আপনার কৃপায় আমি স্মৃতি ফিরে পেয়েছি। আমি এখন দৃঢ় এবং সন্দেহমুক্ত এবং আপনার নির্দেশ অনুযায়ী কাজ করতে প্রস্তুত।"
+        },
+        {
+          "verse_number": 78,
+          "verse_id": "18.78",
+          "english": "Wherever there is Krishna, the master of all mystics, and wherever there is Arjuna, the supreme archer, there will also certainly be opulence, victory, extraordinary power, and morality. That is my opinion.",
+          "bengali": "যেখানে কৃষ্ণ, সমস্ত রহস্যময়তার প্রভু আছেন এবং যেখানে অর্জুন, সর্বশ্রেষ্ঠ ধনুর্ধর আছেন, সেখানে অবশ্যই ঐশ্বর্য, বিজয়, অসাধারণ শক্তি ও নৈতিকতা থাকবে। এটিই আমার মত।"
+        }
+      ]
+    }
+  ]
+}

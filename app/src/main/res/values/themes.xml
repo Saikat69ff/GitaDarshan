@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.GitaDarshan" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF8C00</item>
+        <item name="colorPrimaryVariant">#CC7000</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSurface">#111111</item>
+        <item name="android:windowBackground">#0A0A0A</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+    </style>
+
+    <style name="Theme.GitaDarshan.Verse" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+        <item name="android:statusBarColor">#000000</item>
+        <item name="android:navigationBarColor">#000000</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowShowWallpaper">false</item>
+    </style>
+</resources>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0A0A0A"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Display Duration"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp"
+        android:fontFamily="sans-serif-medium"
+        android:layout_marginTop="16dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="How long the verse stays on screen"
+        android:textColor="#888888"
+        android:textSize="13sp"
+        android:layout_marginTop="4dp"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:id="@+id/tvDurationValue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="15 seconds"
+        android:textColor="#FF8C00"
+        android:textSize="22sp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:layout_marginBottom="8dp" />
+
+    <SeekBar
+        android:id="@+id/seekDuration"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="5"
+        android:progress="1"
+        android:progressTint="#FF8C00"
+        android:thumbTint="#FF8C00"
+        android:layout_marginBottom="8dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView android:layout_width="0dp" android:layout_weight="1"
+            android:layout_height="wrap_content" android:text="10s"
+            android:textColor="#555555" android:textSize="11sp" />
+        <TextView android:layout_width="0dp" android:layout_weight="1"
+            android:layout_height="wrap_content" android:text="15s"
+            android:textColor="#555555" android:textSize="11sp" android:gravity="center"/>
+        <TextView android:layout_width="0dp" android:layout_weight="1"
+            android:layout_height="wrap_content" android:text="20s"
+            android:textColor="#555555" android:textSize="11sp" android:gravity="center"/>
+        <TextView android:layout_width="0dp" android:layout_weight="1"
+            android:layout_height="wrap_content" android:text="30s"
+            android:textColor="#555555" android:textSize="11sp" android:gravity="center"/>
+        <TextView android:layout_width="0dp" android:layout_weight="1"
+            android:layout_height="wrap_content" android:text="45s"
+            android:textColor="#555555" android:textSize="11sp" android:gravity="center"/>
+        <TextView android:layout_width="0dp" android:layout_weight="1"
+            android:layout_height="wrap_content" android:text="60s"
+            android:textColor="#555555" android:textSize="11sp" android:gravity="end"/>
+    </LinearLayout>
+
+</LinearLayout>

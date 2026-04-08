@@ -1,0 +1,3 @@
+-keep class com.gitadarshan.app.** { *; }
+-keepattributes *Annotation*
+-dontwarn kotlin.**
